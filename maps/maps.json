@@ -1,0 +1,10 @@
+[
+  {
+    name: "TestMap",
+    image: "testMap.png"
+  },
+  {
+    name: "Andere Test Map",
+    image: "testMap.png"
+  }
+]
