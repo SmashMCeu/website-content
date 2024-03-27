@@ -1,10 +1,10 @@
 [
   {
-    name: "TestMap",
-    image: "testMap.png"
+    "name": "TestMap",
+    "image": "TestImage.png"
   },
   {
-    name: "Andere Test Map",
-    image: "testMap.png"
+    "name": "Andere Test Map",
+    "image": "TestImage.png"
   }
 ]
