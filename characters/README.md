@@ -4,10 +4,10 @@
 
 1.
     Open the characters.json and add following for your character:
-    ```json
+    ```ts
     {
         ...
-        "characterName": "characterName.json"
+        "characterName": "characterName.json",
         ...
     }
     ```
@@ -15,16 +15,16 @@
 
 2.
     Now create the `characterName.json` in the same directroy and add following information into it:
-    ```json
+    ```ts
     {
-        "name": string;
-        "isPro": boolean;
-        "skinImage": string; // name of the skin image in skins. E.g mario.png
-        "isSlimSkin": boolean;
-        "primaryColor": string; // Hex code
-        "description": string;
-        "difficulty": 1 | 2 | 3; // 1 Easy - 2 Medium - 3 Hard
-        "cooldownTime": string;
+        "name": string,
+        "isPro": boolean,
+        "skinImage": string, // name of the skin image in skins. E.g mario.png
+        "isSlimSkin": boolean,
+        "primaryColor": string, // Hex code
+        "description": string,
+        "difficulty": 1 | 2 | 3, // 1 Easy - 2 Medium - 3 Hard
+        "cooldownTime": string,
     }
     ```
 3.
