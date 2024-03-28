@@ -1,3 +1,14 @@
 # IMPORTANT
-## The name of the image will be used as the Map Name on the website!!!
-> e.g `Ruins.png` will be displayed as `Ruins`
+## How to add a map?
+1. Place the map image in this directory.
+2. Edit the `maps.json` and add your map to it like this:
+   ```ts
+   [
+     ...
+     {
+       "name": "TestMap", // This name will be displayed on the website
+       "image": "TestImage.png" // the path to the thumbnail image for the map
+     },
+     ...
+   ]
+   ```
