@@ -1,6 +1,7 @@
 # IMPORTANT
 
 ## How to add characters?
+**Important:** the first 5 enties in the list will be displayed on the website as preview characters!
 
 1.
     Open the characters.json and add following for your character:
