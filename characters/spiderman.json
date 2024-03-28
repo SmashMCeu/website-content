@@ -1,0 +1,10 @@
+{
+    "name": "Spiderman",
+    "isPro": false,
+    "skinImage": "spiderman.png",
+    "isSlimSkin": false,
+    "primaryColor": "#ff2299",
+    "description": "Spiderman kann sich mit seiner Superkraft an Blöcke heranziehn!",
+    "difficulty": 3,
+    "cooldownTime": "25 Sekunden"
+}

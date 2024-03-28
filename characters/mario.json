@@ -1,0 +1,10 @@
+{
+    "name": "Mario",
+    "isPro": false,
+    "skinImage": "mario.png",
+    "isSlimSkin": false,
+    "primaryColor": "#ff2255",
+    "description": "Mario kann mit seiner Stampfatacke",
+    "difficulty": 1,
+    "cooldownTime": "15 Sekunden"
+}

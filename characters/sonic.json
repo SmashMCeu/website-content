@@ -1,0 +1,10 @@
+{
+    "name": "Sonic",
+    "isPro": false,
+    "skinImage": "sonic.png",
+    "isSlimSkin": true,
+    "primaryColor": "#2244ff",
+    "description": "Sonic ist so schnell wie der Blitz...",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden"
+}
