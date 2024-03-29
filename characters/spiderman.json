@@ -1,6 +1,6 @@
 {
     "name": "Spiderman",
-    "isPro": false,
+    "isPro": true,
     "skinImage": "spiderman.png",
     "isSlimSkin": false,
     "primaryColor": "#ff2299",
