@@ -1,0 +1,9 @@
+{
+    "name": "Donky Kong",
+    "isPro": false,
+    "skinImage": "donky_kong.png",
+    "primaryColor": "#693100",
+    "difficulty": 1,
+    "cooldownTime": "/",
+    "isSlimSkin": false
+}

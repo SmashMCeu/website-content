@@ -1,0 +1,9 @@
+{
+    "name": "Pikachu",
+    "isPro": false,
+    "skinImage": "pitachu.png",
+    "primaryColor": "#ffff55",
+    "difficulty": 1,
+    "cooldownTime": "15 Sekunden",
+    "isSlimSkin": true
+}

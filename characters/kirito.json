@@ -1,0 +1,9 @@
+{
+    "name": "Kirito",
+    "isPro": false,
+    "skinImage": "kirito.png",
+    "primaryColor": "#aaaaaa",
+    "difficulty": 1,
+    "cooldownTime": "/",
+    "isSlimSkin": true
+}

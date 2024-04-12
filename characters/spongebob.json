@@ -1,8 +1,8 @@
 {
-    "name": "Spiderman",
+    "name": "Spongebob",
     "isPro": false,
-    "skinImage": "spiderman.png",
-    "primaryColor": "#ff5555",
+    "skinImage": "spongebob.png",
+    "primaryColor": "#ffaa00",
     "difficulty": 2,
     "cooldownTime": "30 Sekunden",
     "isSlimSkin": true

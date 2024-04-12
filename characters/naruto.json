@@ -1,0 +1,9 @@
+{
+    "name": "Naruto",
+    "isPro": true,
+    "skinImage": "naruto.png",
+    "primaryColor": "#ffaa00",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": true
+}

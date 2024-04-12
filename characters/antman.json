@@ -1,7 +1,7 @@
 {
-    "name": "Mario",
-    "isPro": false,
-    "skinImage": "mario.png",
+    "name": "Antman",
+    "isPro": true,
+    "skinImage": "antman.png",
     "primaryColor": "#ff5555",
     "difficulty": 2,
     "cooldownTime": "10 Sekunden",

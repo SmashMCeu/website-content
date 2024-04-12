@@ -1,0 +1,9 @@
+{
+    "name": "Luigi",
+    "isPro": false,
+    "skinImage": "luigi.png",
+    "primaryColor": "#55ff55",
+    "difficulty": 1,
+    "cooldownTime": "/",
+    "isSlimSkin": true
+}

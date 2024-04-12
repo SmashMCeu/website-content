@@ -1,0 +1,9 @@
+{
+    "name": "Relaxo",
+    "isPro": false,
+    "skinImage": "relaxo.png",
+    "primaryColor": "#00aaaa",
+    "difficulty": 1,
+    "cooldownTime": "/",
+    "isSlimSkin": false
+}

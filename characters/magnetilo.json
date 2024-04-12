@@ -1,0 +1,9 @@
+{
+    "name": "Magnetilo",
+    "isPro": false,
+    "skinImage": "magnetilo.png",
+    "primaryColor": "#aaaaaa",
+    "difficulty": 1,
+    "cooldownTime": "/",
+    "isSlimSkin": false
+}

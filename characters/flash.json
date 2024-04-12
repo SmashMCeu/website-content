@@ -1,9 +1,9 @@
 {
-    "name": "Spiderman",
+    "name": "Flash",
     "isPro": false,
-    "skinImage": "spiderman.png",
+    "skinImage": "flash.png",
     "primaryColor": "#ff5555",
     "difficulty": 2,
-    "cooldownTime": "30 Sekunden",
+    "cooldownTime": "/",
     "isSlimSkin": true
 }

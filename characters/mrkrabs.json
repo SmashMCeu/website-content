@@ -1,9 +1,9 @@
 {
-    "name": "Mario",
+    "name": "Mr. Krabs",
     "isPro": false,
-    "skinImage": "mario.png",
+    "skinImage": "mrkrabs.png",
     "primaryColor": "#ff5555",
     "difficulty": 2,
-    "cooldownTime": "10 Sekunden",
+    "cooldownTime": "/",
     "isSlimSkin": false
 }

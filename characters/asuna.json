@@ -1,0 +1,9 @@
+{
+    "name": "Asuna",
+    "isPro": false,
+    "skinImage": "asuna.png",
+    "primaryColor": "#fff",
+    "difficulty": 3,
+    "cooldownTime": "/",
+    "isSlimSkin": true
+}

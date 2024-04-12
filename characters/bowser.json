@@ -1,0 +1,9 @@
+{
+    "name": "Bowser",
+    "isPro": false,
+    "skinImage": "bowser.png",
+    "primaryColor": "#00aa00",
+    "difficulty": 1,
+    "cooldownTime": "10 Sekunden",
+    "isSlimSkin": false
+}

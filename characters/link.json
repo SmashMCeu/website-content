@@ -1,0 +1,9 @@
+{
+    "name": "Link",
+    "isPro": false,
+    "skinImage": "link.png",
+    "primaryColor": "#00aa00",
+    "difficulty": 2,
+    "cooldownTime": "/",
+    "isSlimSkin": true
+}

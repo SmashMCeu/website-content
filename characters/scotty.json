@@ -1,0 +1,9 @@
+{
+    "name": "Scotty",
+    "isPro": false,
+    "skinImage": "scotty.png",
+    "primaryColor": "#aa0000",
+    "difficulty": 2,
+    "cooldownTime": "15 Sekunden",
+    "isSlimSkin": true
+}

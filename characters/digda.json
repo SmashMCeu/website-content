@@ -1,9 +1,9 @@
 {
-    "name": "Mario",
+    "name": "Digda",
     "isPro": false,
-    "skinImage": "mario.png",
+    "skinImage": "digda.png",
     "primaryColor": "#ff5555",
     "difficulty": 2,
-    "cooldownTime": "10 Sekunden",
+    "cooldownTime": "/",
     "isSlimSkin": false
 }

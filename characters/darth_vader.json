@@ -1,0 +1,9 @@
+{
+    "name": "Darth Vader",
+    "isPro": false,
+    "skinImage": "darth_vader.png",
+    "primaryColor": "#555555",
+    "difficulty": 2,
+    "cooldownTime": "30 Sekunden",
+    "isSlimSkin": false
+}

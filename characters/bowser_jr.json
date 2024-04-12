@@ -1,0 +1,9 @@
+{
+    "name": "Bowser Jr.",
+    "isPro": false,
+    "skinImage": "bowser_jr.png",
+    "primaryColor": "#00aa00",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": false
+}

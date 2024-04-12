@@ -1,0 +1,9 @@
+{
+    "name": "Habitak",
+    "isPro": true,
+    "skinImage": "habitak.png",
+    "primaryColor": "#ff5555",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": false
+}

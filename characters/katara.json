@@ -1,0 +1,9 @@
+{
+    "name": "Katara",
+    "isPro": false,
+    "skinImage": "katara.png",
+    "primaryColor": "#55ffff",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": true
+}
