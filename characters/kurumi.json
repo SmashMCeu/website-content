@@ -1,7 +1,7 @@
 {
-    "name": "Spiderman",
-    "isPro": false,
-    "skinImage": "spiderman.png",
+    "name": "Kurumi",
+    "isPro": true,
+    "skinImage": "kurumi.png",
     "primaryColor": "#ff5555",
     "difficulty": 2,
     "cooldownTime": "30 Sekunden",

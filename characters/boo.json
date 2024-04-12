@@ -1,8 +1,8 @@
 {
-    "name": "Sonic",
+    "name": "Boo",
     "isPro": false,
-    "skinImage": "sonic.png",
-    "primaryColor": "#5555ff",
+    "skinImage": "boo.png",
+    "primaryColor": "#fff",
     "difficulty": 2,
     "cooldownTime": "15 Sekunden",
     "isSlimSkin": false

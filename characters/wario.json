@@ -1,0 +1,9 @@
+{
+    "name": "Wario",
+    "isPro": false,
+    "skinImage": "wario.png",
+    "primaryColor": "#ffff55",
+    "difficulty": 1,
+    "cooldownTime": "/",
+    "isSlimSkin": false
+}

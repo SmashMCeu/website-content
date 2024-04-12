@@ -1,0 +1,9 @@
+{
+    "name": "Kirby",
+    "isPro": true,
+    "skinImage": "kirby.png",
+    "primaryColor": "#ff55ff",
+    "difficulty": 3,
+    "cooldownTime": "15 Sekunden",
+    "isSlimSkin": true
+}

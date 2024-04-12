@@ -1,0 +1,9 @@
+{
+    "name": "Waluigi",
+    "isPro": false,
+    "skinImage": "waluigi.png",
+    "primaryColor": "#aa00aa",
+    "difficulty": 1,
+    "cooldownTime": "30 Sekunden",
+    "isSlimSkin": false
+}

@@ -1,0 +1,9 @@
+{
+    "name": "One Punch Man",
+    "isPro": true,
+    "skinImage": "one_punch_man.png",
+    "primaryColor": "#ffaa00",
+    "difficulty": 1,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": true
+}

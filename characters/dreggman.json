@@ -1,0 +1,9 @@
+{
+    "name": "Dr. Eggman",
+    "isPro": false,
+    "skinImage": "dreggman.png",
+    "primaryColor": "#ffaa00",
+    "difficulty": 2,
+    "cooldownTime": "30 Sekunden",
+    "isSlimSkin": false
+}

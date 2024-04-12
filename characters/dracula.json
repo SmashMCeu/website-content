@@ -1,0 +1,9 @@
+{
+    "name": "Dracula",
+    "isPro": true,
+    "skinImage": "dracula.png",
+    "primaryColor": "#aa0000",
+    "difficulty": 3,
+    "cooldownTime": "/",
+    "isSlimSkin": false
+}

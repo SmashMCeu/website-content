@@ -1,0 +1,9 @@
+{
+    "name": "Dr. Doofenschmirtz",
+    "isPro": false,
+    "skinImage": "doofenschmirtz.png",
+    "primaryColor": "#5555ff",
+    "difficulty": 2,
+    "cooldownTime": "30 Sekunden",
+    "isSlimSkin": false
+}

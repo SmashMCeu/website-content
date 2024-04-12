@@ -1,0 +1,9 @@
+{
+    "name": "Superman",
+    "isPro": false,
+    "skinImage": "superman.png",
+    "primaryColor": "#55ffff",
+    "difficulty": 3,
+    "cooldownTime": "10 Sekunden",
+    "isSlimSkin": true
+}

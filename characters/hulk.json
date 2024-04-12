@@ -1,0 +1,9 @@
+{
+    "name": "Hulk",
+    "isPro": false,
+    "skinImage": "hulk.png",
+    "primaryColor": "#00aa00",
+    "difficulty": 2,
+    "cooldownTime": "/",
+    "isSlimSkin": false
+}

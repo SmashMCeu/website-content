@@ -1,0 +1,9 @@
+{
+    "name": "Bomberman",
+    "isPro": true,
+    "skinImage": "bomberman.png",
+    "primaryColor": "#ffffff",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": true
+}

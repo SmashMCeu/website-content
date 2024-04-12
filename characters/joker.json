@@ -1,0 +1,9 @@
+{
+    "name": "Joker",
+    "isPro": false,
+    "skinImage": "joker.png",
+    "primaryColor": "#5555ff",
+    "difficulty": 3,
+    "cooldownTime": "15 Sekunden",
+    "isSlimSkin": true
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Toph",
+    "isPro": false,
+    "skinImage": "toph.png",
+    "primaryColor": "#00aa00",
+    "difficulty": 3,
+    "cooldownTime": "10 Sekunden",
+    "isSlimSkin": true
+}

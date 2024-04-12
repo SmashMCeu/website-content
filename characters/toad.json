@@ -1,0 +1,9 @@
+{
+    "name": "Toad",
+    "isPro": false,
+    "skinImage": "toad.png",
+    "primaryColor": "#aa00aa",
+    "difficulty": 2,
+    "cooldownTime": "20 Sekunden",
+    "isSlimSkin": false
+}

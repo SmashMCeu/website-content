@@ -1,8 +1,8 @@
 {
-    "name": "Spiderman",
+    "name": "Pummeluff",
     "isPro": false,
-    "skinImage": "spiderman.png",
-    "primaryColor": "#ff5555",
+    "skinImage": "pummeluff.png",
+    "primaryColor": "#ff55ff",
     "difficulty": 2,
     "cooldownTime": "30 Sekunden",
     "isSlimSkin": true

@@ -1,8 +1,8 @@
 {
-    "name": "Mario",
+    "name": "Yoda",
     "isPro": false,
-    "skinImage": "mario.png",
-    "primaryColor": "#ff5555",
+    "skinImage": "yoda.png",
+    "primaryColor": "#55ff55",
     "difficulty": 2,
     "cooldownTime": "10 Sekunden",
     "isSlimSkin": false
