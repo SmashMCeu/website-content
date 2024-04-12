@@ -23,7 +23,6 @@
         "skinImage": string, // name of the skin image in skins. E.g mario.png
         "isSlimSkin": boolean,
         "primaryColor": string, // Hex code
-        "description": string,
         "difficulty": 1 | 2 | 3, // 1 Easy - 2 Medium - 3 Hard
         "cooldownTime": string,
     }
