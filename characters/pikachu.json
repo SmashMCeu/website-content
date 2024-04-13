@@ -1,7 +1,7 @@
 {
     "name": "Pikachu",
     "isPro": false,
-    "skinImage": "pitachu.png",
+    "skinImage": "pikachu.png",
     "primaryColor": "#ffff55",
     "difficulty": 1,
     "cooldownTime": "15 Sekunden",
