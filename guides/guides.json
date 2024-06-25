@@ -1,0 +1,48 @@
+{
+
+    "topGuides": [
+        "howToBuildAMap",
+        "howToCreateACharacterSkin"
+    ],
+
+    "QnA": {
+
+        "Wie bekommen Perma Ban": "Du machen halt so",
+        "Zweite Frage": "Und so ne Antwort hier",
+        "Wie bekommen Perma Ban222": "Du machen halt so2222",
+        "Zweite Frage2222": "Und so ne Antwort hier2222",
+        "Wie bekommen Perma Ban3333": "Du machen halt so3333",
+        "Zweite Frage3333": "Und so ne Antwort hier3333"
+        
+    },
+
+    "guides": [
+        {
+            "id": "howToBuildAMap",
+            "name": "How to build a map",
+            "path": "howToBuildAMap.md"
+        },
+        {
+            "id": "howToCreateACharacterSkin",
+            "name": "How to create a Character Skin",
+            "path": "howToCreateACharacterSkin.md"
+        },
+
+
+        {
+            "id": "howToBuildAMap222",
+            "name": "How to build a map222",
+            "path": "howToBuildAMap.md"
+        },
+        {
+            "id": "howToCreateACharacterSkin222",
+            "name": "How to create a Character Skin222",
+            "path": "howToCreateACharacterSkin.md"
+        }
+    ]
+    
+
+
+
+
+}
