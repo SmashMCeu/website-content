@@ -5,7 +5,7 @@ To change the content of a guide, look into the guides section and find the guid
 
 #### Sections of `guides.json`:
 - topGuides => A few **very** important guides. List contains guide IDs
-- QnA => Question And Answers -> Key=Question Value=Answer
+- QnA => Question And Answers -> Key=Question Value=Answer (Hint: You can use markdown features in the answer. For example links or bold text etc.)
 - guides => A list of guides
 
     A Guide consists of 3 things:
