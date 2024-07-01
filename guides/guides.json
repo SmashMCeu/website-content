@@ -7,13 +7,13 @@
 
     "QnA": {
 
-        "Wie verifiziere ich mich?": " + (Wie verifiziere ich mich, wenn ich gebannt wurde?)",
-        "Wie stelle ich einen Entbannungsantrag": "Discord so und dann Ticket so",
-        "Wie bekomme ich den Pro-Rang?": "Hab einfach Geld",
-        "Wie kann ich einen Bug melden?": "Ticket auf machen du Mensch",
-        "Wie kann ich einen Regelverstoß melden?": "/report oder Ticket",
-        "Wie kann ich private Runden erstellen?": "pro Rang + NPC",
-        "Hast du weitere Fragen?": "auf Discord so und Ticket auf machen jaja"
+        "Wie verifiziere ich mich?": "Gebe auf unserem Discord den Command '!verify' im Kanal #verify-bot ein. Nun erhälst du einen Code (via Privatnachricht), den du auf dem Minecraft Server mit '/verify [CODE]' bestätigen musst. Solltest du momentan gebannt sein, kannst du dies auch auf dem Unterserver 'verify.smashmc.eu' machen.",
+        "Wie stelle ich einen Entbannungsantrag": "Zuerst stelle sicher, dass du dich verifiziert hast! Dann erstelle ein Ticket auf unserem Discord Server im Kanal #support und wähle 'Entbannungsantrag' aus. Nun fülle das Formular aus und drücke auf Absenden. Ein Moderationsmitglied wird sich zeitnah bei dir melden.",
+        "Wie bekomme ich den Pro-Rang?": "Du kannst den Pro Rang in unserem <a href='http://shop.smashmc.eu/' target='_blank'>Shop</a> kaufen. Außerdem erhälst du ihn, solange du zu den Top-5 Spielern eines Monats gehörst.",
+        "Wie kann ich einen Bug melden?": "Auf unserem Discord kannst du im Kanal #bugs ein neuen Post erstellen, in dem du zeigst und erklärst, was der Bug ist und wie er reproduzierbar ist.",
+        "Wie kann ich einen Regelverstoß melden?": "Mit '/report [NAME] [BUGUSING/CHEATING/TROLLING/BELEIDIGUNG/PROVOKATION/SKIN/TEAMING/WERBUNG/SPAM/FARMING]'. Zusätzlich kannst du Beweismaterial auf unserem Discord in einem Report-Ticket hochladen.",
+        "Wie kann ich private Runden erstellen?": "In der Main-Lobby hast du die Möglichkeit mit einem Pro Rang eine Private Runde zu erstellen. Dafür klicke auf den NPC am Spawn und klicke um GUI auf Server erstellen.",
+        "Hast du weitere Fragen?": "Komme auf unseren Discord Server und erstelle ein Support Ticket!"
         
     },
 
