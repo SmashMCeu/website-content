@@ -1,254 +1,254 @@
 [
   {
     "name": "Airplane",
-    "image": "airplane.png"
+    "image": "airplane.jpg"
   },
   {
     "name": "Arena",
-    "image": "arena.png"
+    "image": "arena.jpg"
   },
   {
     "name": "Babylon",
-    "image": "babylon.png"
+    "image": "babylon.jpg"
   },
   {
     "name": "Bikini Bottom",
-    "image": "bikinibottom.png"
+    "image": "bikinibottom.jpg"
   },
   {
     "name": "Boardgame",
-    "image": "boardgame.png"
+    "image": "boardgame.jpg"
   },
   {
     "name": "Bowser Castle",
-    "image": "bowsercastle.png"
+    "image": "bowsercastle.jpg"
   },
   {
     "name": "Boxing Ring",
-    "image": "boxingring.png"
+    "image": "boxingring.jpg"
   },
   {
     "name": "Camping V2",
-    "image": "campingV2.png"
+    "image": "campingV2.jpg"
   },
   {
     "name": "Candy",
-    "image": "candy.png"
+    "image": "candy.jpg"
   },
   {
     "name": "Cave",
-    "image": "cave.png"
+    "image": "cave.jpg"
   },
   {
     "name": "Chess",
-    "image": "chess.png"
+    "image": "chess.jpg"
   },
   {
     "name": "Clash Royale",
-    "image": "clashroyale.png"
+    "image": "clashroyale.jpg"
   },
   {
     "name": "Coffee Time",
-    "image": "coffeetime.png"
+    "image": "coffeetime.jpg"
   },
   {
     "name": "Colloseum",
-    "image": "colloseum.png"
+    "image": "colloseum.jpg"
   },
   {
     "name": "Console",
-    "image": "console.png"
+    "image": "console.jpg"
   },
   {
     "name": "Cube",
-    "image": "cube.png"
+    "image": "cube.jpg"
   },
   {
     "name": "Donuts",
-    "image": "donuts.png"
+    "image": "donuts.jpg"
   },
   {
     "name": "Eye of Magma",
-    "image": "eyeofmagma.png"
+    "image": "eyeofmagma.jpg"
   },
   {
-    "name": "Floating Islands",
-    "image": "floatingislands.png"
+    "name": "Floating Island",
+    "image": "floatingisland.jpg"
   },
   {
     "name": "Green Hill Zone",
-    "image": "greenhillzone.png"
+    "image": "greenhillzone.jpg"
   },
   {
     "name": "Heaven",
-    "image": "heaven.png"
+    "image": "heaven.jpg"
   },
   {
     "name": "Helicarrier",
-    "image": "helicarrier.png"
+    "image": "helicarrier.jpg"
   },
   {
     "name": "Jukebox",
-    "image": "jukebox.png"
+    "image": "jukebox.jpg"
   },
   {
     "name": "Lava Chess",
-    "image": "lavachess.png"
+    "image": "lavachess.jpg"
   },
   {
     "name": "Lava Chess V2",
-    "image": "lavachessV2.png"
+    "image": "lavachessV2.jpg"
   },
   {
     "name": "Mario Bros",
-    "image": "mariobros.png"
+    "image": "mariobros.jpg"
   },
   {
     "name": "Mario Party",
-    "image": "marioparty.png"
+    "image": "marioparty.jpg"
   },
   {
-    "name": "Master Swords",
-    "image": "masterswords.png"
+    "name": "Master Sword",
+    "image": "mastersword.jpg"
   },
   {
     "name": "Mega Fruit",
-    "image": "megafruit.png"
+    "image": "megafruit.jpg"
   },
   {
     "name": "Panda",
-    "image": "panda.png"
+    "image": "panda.jpg"
   },
   {
     "name": "Paradise Palms",
-    "image": "paradisepalms.png"
+    "image": "paradisepalms.jpg"
   },
   {
     "name": "Park V2",
-    "image": "parkV2.png"
+    "image": "parkV2.jpg"
   },
   {
     "name": "Peaches Cake",
-    "image": "peachescake.png"
+    "image": "peachescake.jpg"
   },
   {
     "name": "Pipe",
-    "image": "pipe.png"
+    "image": "pipe.jpg"
   },
   {
     "name": "Pizza",
-    "image": "pizza.png"
+    "image": "pizza.jpg"
   },
   {
     "name": "Pokemon",
-    "image": "pokemon.png"
+    "image": "pokemon.jpg"
   },
   {
     "name": "Pool table",
-    "image": "pooltable.png"
+    "image": "pooltable.jpg"
   },
   {
     "name": "Quarz",
-    "image": "quarz.png"
+    "image": "quarz.jpg"
   },
   {
     "name": "Rainbow Road",
-    "image": "rainbowroad.png"
+    "image": "rainbowroad.jpg"
   },
   {
     "name": "Red Temple",
-    "image": "redtemple.png"
+    "image": "redtemple.jpg"
   },
   {
     "name": "Rubix Cube",
-    "image": "rubixcube.png"
+    "image": "rubixcube.jpg"
   },
   {
     "name": "Ruins",
-    "image": "ruins.png"
+    "image": "ruins.jpg"
   },
   {
     "name": "Sakura Garden",
-    "image": "sakuragarden.png"
+    "image": "sakuragarden.jpg"
   },
   {
     "name": "Sandfloor",
-    "image": "sandfloor.png"
+    "image": "sandfloor.jpg"
   },
   {
     "name": "Skins",
-    "image": "skins.png"
+    "image": "skins.jpg"
   },
   {
     "name": "Smash",
-    "image": "smash.png"
+    "image": "smash.jpg"
   },
   {
     "name": "Smash Tower",
-    "image": "smashtower.png"
+    "image": "smashtower.jpg"
   },
   {
     "name": "Snake",
-    "image": "snake.png"
+    "image": "snake.jpg"
   },
   {
     "name": "Sonic Run",
-    "image": "sonicrun.png"
+    "image": "sonicrun.jpg"
   },
   {
     "name": "Space",
-    "image": "space.png"
+    "image": "space.jpg"
   },
   {
     "name": "Spiderman",
-    "image": "spiderman.png"
+    "image": "spiderman.jpg"
   },
   {
     "name": "Stonefloor",
-    "image": "stonefloor.png"
+    "image": "stonefloor.jpg"
   },
   {
     "name": "Streets V2",
-    "image": "streetsV2.png"
+    "image": "streetsV2.jpg"
   },
   {
     "name": "Super Mario",
-    "image": "supermario.png"
+    "image": "supermario.jpg"
   },
   {
     "name": "Survival",
-    "image": "survival.png"
+    "image": "survival.jpg"
   },
   {
     "name": "Templerun",
-    "image": "templerun.png"
+    "image": "templerun.jpg"
   },
   {
     "name": "Tetris",
-    "image": "tetris.png"
+    "image": "tetris.jpg"
   },
   {
     "name": "Viking",
-    "image": "viking.png"
+    "image": "viking.jpg"
   },
   {
     "name": "Vulcano",
-    "image": "vulcano.png"
+    "image": "vulcano.jpg"
   },
   {
     "name": "Wordle",
-    "image": "wordle.png"
+    "image": "wordle.jpg"
   },
   {
     "name": "Ying + Yang",
-    "image": "yingyang.png"
+    "image": "yingyang.jpg"
   },
   {
     "name": "Yoshi",
-    "image": "yoshi.png"
+    "image": "yoshi.jpg"
   },
   {
     "name": "Yoshi Island",
-    "image": "yoshiisland.png"
+    "image": "yoshiisland.jpg"
   }
 ]
