@@ -1,10 +1,254 @@
 [
   {
-    "name": "TestMap",
-    "image": "TestImage.png"
+    "name": "Airplane",
+    "image": "airplane.png"
   },
   {
-    "name": "Andere Test Map",
-    "image": "TestImage.png"
+    "name": "Arena",
+    "image": "arena.png"
+  },
+  {
+    "name": "Babylon",
+    "image": "babylon.png"
+  },
+  {
+    "name": "Bikini Bottom",
+    "image": "bikinibottom.png"
+  },
+  {
+    "name": "Boardgame",
+    "image": "boardgame.png"
+  },
+  {
+    "name": "Bowser Castle",
+    "image": "bowsercastle.png"
+  },
+  {
+    "name": "Boxing Ring",
+    "image": "boxingring.png"
+  },
+  {
+    "name": "Camping V2",
+    "image": "campingV2.png"
+  },
+  {
+    "name": "Candy",
+    "image": "candy.png"
+  },
+  {
+    "name": "Cave",
+    "image": "cave.png"
+  },
+  {
+    "name": "Chess",
+    "image": "chess.png"
+  },
+  {
+    "name": "Clash Royale",
+    "image": "clashroyale.png"
+  },
+  {
+    "name": "Coffee Time",
+    "image": "coffeetime.png"
+  },
+  {
+    "name": "Colloseum",
+    "image": "colloseum.png"
+  },
+  {
+    "name": "Console",
+    "image": "console.png"
+  },
+  {
+    "name": "Cube",
+    "image": "cube.png"
+  },
+  {
+    "name": "Donuts",
+    "image": "donuts.png"
+  },
+  {
+    "name": "Eye of Magma",
+    "image": "eyeofmagma.png"
+  },
+  {
+    "name": "Floating Islands",
+    "image": "floatingislands.png"
+  },
+  {
+    "name": "Green Hill Zone",
+    "image": "greenhillzone.png"
+  },
+  {
+    "name": "Heaven",
+    "image": "heaven.png"
+  },
+  {
+    "name": "Helicarrier",
+    "image": "helicarrier.png"
+  },
+  {
+    "name": "Jukebox",
+    "image": "jukebox.png"
+  },
+  {
+    "name": "Lava Chess",
+    "image": "lavachess.png"
+  },
+  {
+    "name": "Lava Chess V2",
+    "image": "lavachessV2.png"
+  },
+  {
+    "name": "Mario Bros",
+    "image": "mariobros.png"
+  },
+  {
+    "name": "Mario Party",
+    "image": "marioparty.png"
+  },
+  {
+    "name": "Master Swords",
+    "image": "masterswords.png"
+  },
+  {
+    "name": "Mega Fruit",
+    "image": "megafruit.png"
+  },
+  {
+    "name": "Panda",
+    "image": "panda.png"
+  },
+  {
+    "name": "Paradise Palms",
+    "image": "paradisepalms.png"
+  },
+  {
+    "name": "Park V2",
+    "image": "parkV2.png"
+  },
+  {
+    "name": "Peaches Cake",
+    "image": "peachescake.png"
+  },
+  {
+    "name": "Pipe",
+    "image": "pipe.png"
+  },
+  {
+    "name": "Pizza",
+    "image": "pizza.png"
+  },
+  {
+    "name": "Pokemon",
+    "image": "pokemon.png"
+  },
+  {
+    "name": "Pool table",
+    "image": "pooltable.png"
+  },
+  {
+    "name": "Quarz",
+    "image": "quarz.png"
+  },
+  {
+    "name": "Rainbow Road",
+    "image": "rainbowroad.png"
+  },
+  {
+    "name": "Red Temple",
+    "image": "redtemple.png"
+  },
+  {
+    "name": "Rubix Cube",
+    "image": "rubixcube.png"
+  },
+  {
+    "name": "Ruins",
+    "image": "ruins.png"
+  },
+  {
+    "name": "Sakura Garden",
+    "image": "sakuragarden.png"
+  },
+  {
+    "name": "Sandfloor",
+    "image": "sandfloor.png"
+  },
+  {
+    "name": "Skins",
+    "image": "skins.png"
+  },
+  {
+    "name": "Smash",
+    "image": "smash.png"
+  },
+  {
+    "name": "Smash Tower",
+    "image": "smashtower.png"
+  },
+  {
+    "name": "Snake",
+    "image": "snake.png"
+  },
+  {
+    "name": "Sonic Run",
+    "image": "sonicrun.png"
+  },
+  {
+    "name": "Space",
+    "image": "space.png"
+  },
+  {
+    "name": "Spiderman",
+    "image": "spiderman.png"
+  },
+  {
+    "name": "Stonefloor",
+    "image": "stonefloor.png"
+  },
+  {
+    "name": "Streets V2",
+    "image": "streetsV2.png"
+  },
+  {
+    "name": "Super Mario",
+    "image": "supermario.png"
+  },
+  {
+    "name": "Survival",
+    "image": "survival.png"
+  },
+  {
+    "name": "Templerun",
+    "image": "templerun.png"
+  },
+  {
+    "name": "Tetris",
+    "image": "tetris.png"
+  },
+  {
+    "name": "Viking",
+    "image": "viking.png"
+  },
+  {
+    "name": "Vulcano",
+    "image": "vulcano.png"
+  },
+  {
+    "name": "Wordle",
+    "image": "wordle.png"
+  },
+  {
+    "name": "Ying + Yang",
+    "image": "yingyang.png"
+  },
+  {
+    "name": "Yoshi",
+    "image": "yoshi.png"
+  },
+  {
+    "name": "Yoshi Island",
+    "image": "yoshiisland.png"
   }
 ]
