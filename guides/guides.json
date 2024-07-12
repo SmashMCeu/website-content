@@ -12,9 +12,10 @@
         "Wie bekomme ich den Pro-Rang?": "Du kannst den Pro Rang in unserem <a href='http://shop.smashmc.eu/' target='_blank'>Shop</a> kaufen. Außerdem erhälst du ihn, solange du zu den Top-5 Spielern eines Monats gehörst.",
         "Wie kann ich einen Bug melden?": "Auf unserem Discord kannst du im Kanal #bugs ein neuen Post erstellen, in dem du zeigst und erklärst, was der Bug ist und wie er reproduzierbar ist.",
         "Wie kann ich einen Regelverstoß melden?": "Mit '/report [NAME] [BUGUSING/CHEATING/TROLLING/BELEIDIGUNG/PROVOKATION/SKIN/TEAMING/WERBUNG/SPAM/FARMING]'. Zusätzlich kannst du Beweismaterial auf unserem Discord in einem Report-Ticket hochladen.",
+        "Wie kann ich schon früher aus der Spawn-Box?": "Benutze den Befehl '/togglebox' um nur beim Respawnen eine Box oder gar keine Box mehr zu haben!",
         "Wie kann ich private Runden erstellen?": "In der Main-Lobby hast du die Möglichkeit mit einem Pro Rang eine Private Runde zu erstellen. Dafür klicke auf den NPC am Spawn und klicke um GUI auf Server erstellen.",
         "Hast du weitere Fragen?": "Komme auf unseren Discord Server und erstelle ein Support Ticket!"
-        
+
     },
 
     "guides": [
